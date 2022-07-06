@@ -1,0 +1,31 @@
+{
+"GuideData": {
+     "AdsController": 
+					{
+					"NetworkAds": "Admob",
+
+					"BannerAdmob":"adb Banner id",
+					"InterstitialAdmob":"adb Interstitial id",
+					"NativeAdmob":"adb Native id",
+
+					"BannerFacebook":"face Banner id",
+					"InterstitialFacebook":"adb Interstitial id",
+					"NativeFacebook":"face Native id"
+					},
+	"items":
+			[
+					{
+						"title":"title 1",
+						"app_link": "App Link 1",
+						"image_link": "link 1"
+					},
+					{
+						"title" : "title 2",
+						"app_link": "App Link 2",
+						"image_link": "link 2"
+					}
+
+			]
+					
+			}
+}
