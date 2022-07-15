@@ -4,9 +4,9 @@
 					{
 					"NetworkAds": "Admob",
 
-					"BannerAdmob":"adb Banner id",
-					"InterstitialAdmob":"adb Interstitial id",
-					"NativeAdmob":"adb Native id",
+					"BannerAdmob"       : "ca-app-pub-3940256099942544/6300978111",
+					"InterstitialAdmob" : "ca-app-pub-3940256099942544/1033173712",
+					"NativeAdmob"       : "ca-app-pub-3940256099942544/2247696110",
 
 					"BannerFacebook":"face Banner id",
 					"InterstitialFacebook":"adb Interstitial id",
@@ -15,14 +15,14 @@
 	"items":
 			[
 					{
-						"title":"title 1",
-						"app_link": "App Link 1",
-						"image_link": "link 1"
+						"title"      : "Upin Ipin",
+						"app_link"   : "https://play.google.com/store/apps/details?id=com.fakevideocall.upinandipin",
+						"image_link" : "https://raw.githubusercontent.com/FakeCall/AdNetwork/main/images/upin_ipin.png"
 					},
 					{
-						"title" : "title 2",
-						"app_link": "App Link 2",
-						"image_link": "link 2"
+						"title"      : "Boboi Boy",
+						"app_link"   : "https://play.google.com/store/apps/details?id=com.fakevideocall.boboi_boy_call",
+						"image_link" : "https://raw.githubusercontent.com/FakeCall/AdNetwork/main/images/boboi_boy.png"
 					}
 
 			]
